@@ -1,4 +1,4 @@
-# [Név]
+# Várszegi Ádám
 
 ## Hogyan kezdj neki?
 
