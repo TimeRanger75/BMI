@@ -1,0 +1,39 @@
+button{
+    color: #f8943c;
+}
+
+
+header{
+    background-color: #f8943c;
+    border-bottom: 10px solid #f8943c ;
+    border-top: 10px solid #f8943c ;
+    border-left: 10px solid #f8943c ;
+    border-right: 10px solid #f8943c ;
+    color: white;
+}
+
+#right{
+    float: right;
+}
+
+th,td {
+    border-bottom: 1px solid ;
+
+    ;
+}
+
+#center{
+    margin: auto;
+  width: 70%;
+  border: 3px ;
+  padding: 10px;
+  text-align: center;;
+}
+
+#eredmeny{
+    color:#f8943c ;
+}
+
+#idealis{
+    color:#f8943c ;
+}
